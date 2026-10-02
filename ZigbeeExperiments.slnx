@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SonoffZigbee.Demo/SonoffZigbee.Demo.csproj" />
+    <Project Path="src/SonoffZigbee/SonoffZigbee.csproj" />
+  </Folder>
+</Solution>
